@@ -1,0 +1,30 @@
+.titolo{
+    font-size: 40px;
+    text-align: center;
+}
+.linea1{
+    height: 5px;
+}
+.cosa{
+    font-size: 30px;
+    text-align: center;
+}
+.risposta{
+    font-size: 20px;
+    text-align: center;
+}
+.foto{
+    text-align: center;
+}
+.si{
+    font-size: 30px;
+}
+.no{
+    font-size: 30px;
+}
+.poco{
+    font-size: 30px;
+}
+.Mi{
+    font-size: 40px;
+}
